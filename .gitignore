@@ -1,2 +1,7 @@
 #API key file
 secret.txt
+
+#not realted to project
+*.url
+*.pdf
+mynote_git.txt
